@@ -1,1 +1,1 @@
-# social-profiles-sidebar-widget
+# Social Profiles Sidebar Widget
